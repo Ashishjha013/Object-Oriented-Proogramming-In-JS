@@ -1,3 +1,13 @@
+# Intro to Object-Oriented Programming
+
+`OOP` is very useful on large scale `projects`, as it facilitates code `modularity` and organization.
+
+By implementing the abstraction of **entities**, we're able to think about the program in a similar way as our world works, with different actors that perform certain actions and interact with each other.
+
+To better understand how we can implement OOP, we're going to use a practical example in which we're going to code a little video game. We're going to focus on the creation of characters and see how OOP can help us with that.👽 👾 🤖
+
+---
+
 # How to Create Objects – Classes
 
 So any video game needs characters, right?  
