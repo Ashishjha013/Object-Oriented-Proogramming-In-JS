@@ -53,3 +53,4 @@ const alien2 = {
 };
 
 // Similarly, we could create Human and Robot characters manually...
+
